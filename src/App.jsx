@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
+import Fetch from "./components/Fetch";
 import Header from "./components/Header";
-import Fetch from "./components/Fetch"
 
 function App() {
   return (
